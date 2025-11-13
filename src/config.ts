@@ -89,7 +89,7 @@ export const siteConfig = {
     {
       school: "University of California, Berkeley",
       degree: "Master of Analytics",
-      dateRange: "Aug2025 - Aug 2026",
+      dateRange: "Aug 2025 - Aug 2026",
       achievements: [
         "Coursework: Optimization, Data Analysis, Machine Learning, Database, Financial Engineering System",
       ],
