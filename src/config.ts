@@ -13,11 +13,12 @@ export const siteConfig = {
     "Graduate student pursuing dual degrees in Data Science and Computer Science at the University of Pennsylvania, with a Master of Analytics from UC Berkeley and an M.S. in Quantitative Finance from Washington University in St. Louis. Specialized in AI/ML systems, LLM applications in finance, and distributed computing. Experienced in building production ML systems, financial analysis tools, and GPU-accelerated computing pipelines.",
   skills: {
     "Programming Languages": ["Python", "C/C++", "Java", "R", "MATLAB"],
-    "ML/DL Frameworks": ["TensorFlow", "PyTorch", "Scikit-Learn", "CUDA"],
+    "ML/DL Frameworks": ["TensorFlow", "PyTorch", "Scikit-Learn", "XGBoost", "CUDA"],
     "Databases": ["SQL", "MongoDB", "Neo4j"],
     "Cloud & DevOps": ["AWS", "GCP", "Docker", "Git"],
-    "Big Data & Tools": ["Apache Spark", "LaTeX"],
+    "Tools": ["Apache Spark", "LaTeX", "Gurobi", "Tableau", "Power BI"],
   },
+  
   projects: [
     {
       name: "Distributed GPU Computing for Machine Learning Systems",
