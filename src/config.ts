@@ -10,8 +10,7 @@ export const siteConfig = {
     github: "https://github.com/haoruizhang2001",
   },
   aboutMe:
-    "Graduate student pursuing dual degrees in Data Science and Computer Science at the University of Pennsylvania, with a Master of Analytics from UC Berkeley and an M.S. in Quantitative Finance from Washington University in St. Louis. Specialized in AI/ML systems, LLM applications in finance, and distributed computing. Experienced in building production ML systems, financial analysis tools, and GPU-accelerated computing pipelines.",
-  skills: {
+    "I am someone who works at the intersection of mathematics, computer science, data science, and quantitative finance. Currently pursuing graduate studies at the University of Pennsylvania and UC Berkeley, I am passionate about data modeling, machine learning, and AI-driven systems. I enjoy building practical, scalable solutions and exploring how intelligent models can solve real-world problems. I am actively seeking opportunities in data science, AI/ML engineering, and quantitative finance.",  skills: {
     "Programming Languages": ["Python", "C/C++", "Java", "R", "MATLAB"],
     "ML/DL Frameworks": ["TensorFlow", "PyTorch", "Scikit-Learn", "XGBoost", "CUDA"],
     "Databases": ["SQL", "MongoDB", "Neo4j"],
