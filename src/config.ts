@@ -62,6 +62,16 @@ export const siteConfig = {
         "Analyzed aspects of corporate bond-issuing firms, highlighting evolution, key features, and challenges",
       ],
     },
+    {
+      company: "Tsingtao Stone Asset Management",
+      title: "Intern Quantitative Researcher",
+      dateRange: "Dec 2021 - Mar 2022",
+      bullets: [
+        "Conducted strategy development/back-test of energy futures trading; eliminated 30% of underperforming models",
+        "Analyzed 12 financial factors; highlighted consistent significance of SMB and HML factors",
+        "Performed quantitative analysis for 20 indices; identified root causes of model-market discrepancies",
+      ],
+    },
   ],
   education: [
     {
