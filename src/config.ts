@@ -1,6 +1,6 @@
 export const siteConfig = {
   name: "Haorui Zhang",
-  title: "Graduate Student & AI Researcher",
+  title: "AI/ML Engineer & Data Scientist",
   description: "Portfolio website of Haorui Zhang - Data Science, AI, and Quantitative Finance",
   accentColor: "#004F90",
   social: {
