@@ -97,9 +97,7 @@ export const siteConfig = {
       dateRange: "Aug 2023 - Dec 2024",
       achievements: [
         "CGPA: 4.0/4.0 (Ranking: 1/89)",
-        "Outstanding Finance Student",
-        "Charles F. Knight Scholarship",
-        "Beta Gamma Sigma Honor Society",
+        "Honors: Outstanding Finance Student, Charles F. Knight Scholarship, Beta Gamma Sigma Honor Society",
         "Coursework: Mathematical Finance, Real Analysis, Stochastic Analysis",
       ],
     },
