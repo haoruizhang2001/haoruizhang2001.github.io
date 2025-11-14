@@ -55,7 +55,7 @@ export const siteConfig = {
     {
       company: "Haitong Securities",
       title: "Deal Sourcing and Client Coverage Intern (Quantitative Analysis Role)",
-      dateRange: "July 2022 - Oct 2022",
+      dateRange: "Jul 2022 - Oct 2022",
       bullets: [
         "Conducted qualitative and quantitative financial analysis on 200+ corporate financial statements",
         "Developed automation tools via Python & MathPix API for data mining and image recognition with almost 100% accuracy",
