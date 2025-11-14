@@ -67,9 +67,9 @@ export const siteConfig = {
       title: "Quantitative Researcher Intern",
       dateRange: "Dec 2021 - Mar 2022",
       bullets: [
-        "Conducted strategy development/back-test of energy futures trading; eliminated 30% of underperforming models",
-        "Analyzed 12 financial factors; highlighted consistent significance of SMB and HML factors",
-        "Performed quantitative analysis for 20 indices; identified root causes of model-market discrepancies",
+        "Conducted strategy development/back-test of energy futures trading, eliminated 30% of underperforming models",
+        "Analyzed 12 financial factors, highlighted consistent significance of SMB and HML factors",
+        "Performed quantitative analysis for 20 indices, identified root causes of model-market discrepancies",
       ],
     },
   ],
