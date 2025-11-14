@@ -1,7 +1,7 @@
 export const siteConfig = {
-  name: "Haorui Zhang",
+  name: "Henry (Haorui) Zhang",
   title: "AI/ML Engineer & Data Scientist",
-  description: "Portfolio website of Haorui Zhang - Data Science, AI, and Quantitative Finance",
+  description: "Portfolio website of Henry (Haorui) Zhang - Data Science, AI, and Quantitative Finance",
   accentColor: "#004F90",
   social: {
     email: "haoruizhang@berkeley.edu",
@@ -64,7 +64,7 @@ export const siteConfig = {
     },
     {
       company: "Tsingtao Stone Asset Management",
-      title: "Intern Quantitative Researcher",
+      title: "Quantitative Researcher Intern",
       dateRange: "Dec 2021 - Mar 2022",
       bullets: [
         "Conducted strategy development/back-test of energy futures trading; eliminated 30% of underperforming models",
