@@ -24,21 +24,21 @@ export const siteConfig = {
       description:
         "Implemented CUDA kernels for parallel tensor computations, optimizing thread scheduling and shared memory to achieve a 5× speedup over CPU baselines. Built custom tensor operators in C++/CUDA integrated with autograd to extend deep learning framework functionality. Deployed and benchmarked multi-GPU distributed training pipelines on AWS and Lambda AI GPU clusters.",
       link: "",
-      skills: ["CUDA", "C++", "PyTorch", "AWS", "NCCL"],
+      skills: ["C++", "CUDA", "PyTorch", "AWS", "NCCL"],
     },
     {
       name: "Prompt Engineering Project",
       description:
         "Built an LLM-based financial derivative analysis tool using GPT-3.5/4 and Claude Sonnet APIs. Applied few-shot, COT, and instruction-tuned prompting to enhance model reasoning with 55% premium than benchmark. Achieved significantly higher prediction accuracy than benchmark pricing (40%) and traditional ML models (15-60%).",
       link: "",
-      skills: ["Python", "LLM", "GPT-4", "Claude", "Financial Modeling"],
+      skills: ["Python", "LLM", "GPT-4", "Claude Sonnet"],
     },
     {
       name: "Bayesian Model Scan and Risk Factor Construction",
       description:
         "Developed a novel approach combining Bayesian Model Scanning and machine learning techniques to extract profitable trading signals from ETF and mutual fund returns. Implemented a three-stage dimension reduction strategy including PCA and Tree method to make Bayesian Model Scanning computationally feasible for large-scale factor selection.",
-      link: "",
-      skills: ["Python", "Bayesian Statistics", "Machine Learning", "PCA"],
+      link: "https://github.com/haoruizhang2001/Bayesian-Model-Scan-and-Dimensional-Reduction",
+      skills: ["Python", "R", "Bayesian Statistics", "Machine Learning", "PCA"],
     },
   ],
   experience: [
