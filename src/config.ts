@@ -22,9 +22,9 @@ export const siteConfig = {
     {
       name: "Distributed GPU Computing for Machine Learning Systems",
       description:
-        "Engineered a high-performance PyTorch-style tensor/autograd engine in C++/CUDA, achieving **2.3× faster convolution** and **3.7× faster pooling** than LibTorch on **megapixel-scale inputs**. Built a GPU training stack using cuBLAS/cuDNN with optimized kernels for Convolution, RNN/LSTM, normalization, pooling, and self-attention, enabling **1–7 ms** forward/backward passes for deep neural networksTrained LSTM/ML models for return and volatility forecasting on distributed GPUs, yielding significant error reduction (25\%) over all baseline models in backtests on distributed GPUs using NCCL-based data-parallel pipelines",
+        "Engineered a high-performance PyTorch-style tensor and autograd engine in C++/CUDA, achieving 2.3× faster convolution and 3.7× faster pooling than LibTorch on megapixel-scale inputs. Built a full GPU training stack with custom-optimized kernels for convolution, RNN/LSTM, normalization, pooling, and self-attention, enabling 1–7 ms forward/backward passes. Designed distributed LSTM/ML forecasting pipelines using NCCL-based data parallelism, delivering a 25% error reduction over baseline models in financial backtests.",
       link: "",
-      skills: ["C++", "CUDA", "PyTorch", "AWS", "NCCL"],
+      skills: ["C++", "CUDA", "PyTorch", "cuBLAS", "cuDNN", "AWS", "NCCL"],
     },
     {
       name: "Prompt Engineering Project",
