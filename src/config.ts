@@ -88,6 +88,7 @@ export const siteConfig = {
       degree: "Master of Analytics",
       dateRange: "Aug 2025 - Aug 2026",
       achievements: [
+        "CGPA: 4.0/4.0",
         "Coursework: Optimization, Data Analysis, Machine Learning, Database, Financial Engineering System",
       ],
     },
