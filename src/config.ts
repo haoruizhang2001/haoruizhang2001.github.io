@@ -58,6 +58,9 @@ export const siteConfig = {
   projects: [
     {
       name: "End-to-End Time-Series Forecasting Pipeline: WTI Crude Oil",
+      organization: "University of California, Berkeley",
+      location: "Berkeley, CA",
+      dateRange: "Jan 2021 - Nov 2025",
       description:
         "Built at UC Berkeley, this project engineered a synchronized multi-frequency data pipeline for WTI crude forecasting, applied PCA and Elastic Net for feature selection, benchmarked LSTM, XGBoost, and Random Forest models against ARIMA with rolling-window validation, and validated a trading strategy that improved directional accuracy by 36%.",
       link: "https://github.com/haoruizhang2001/Oilman-Sachs-Crude-Oil-Price-Prediction",
@@ -80,16 +83,22 @@ export const siteConfig = {
       skills: ["C++", "CUDA", "PyTorch", "cuBLAS", "cuDNN", "AWS", "NCCL"],
     },
     {
-      name: "Prompt Engineering Project",
+      name: "LLM-Driven Financial Derivative Analysis System",
+      organization: "University of Pennsylvania",
+      location: "Philadelphia, PA",
+      dateRange: "May 2025 - Aug 2025",
       description:
-        "Built an LLM-based financial derivative analysis tool using GPT-3.5/4 and Claude Sonnet APIs. Applied few-shot, COT, and instruction-tuned prompting to enhance model reasoning with 55% premium than benchmark. Achieved significantly higher prediction accuracy than benchmark pricing (40%) and traditional ML models (15-60%).",
+        "Engineered a financial reasoning system integrating GPT-4 and Claude Sonnet APIs to analyze complex derivative pricing scenarios, applied chain-of-thought, few-shot, and instruction-tuning strategies for a 55% performance lift over zero-shot baselines, and outperformed traditional pricing models by 40% and ML baselines by 15-60%.",
       link: "",
-      skills: ["Python", "LLM", "GPT-4", "Claude Sonnet"],
+      skills: ["Python", "LLM", "GPT-4", "Claude Sonnet", "Prompt Engineering"],
     },
     {
-      name: "Bayesian Model Scan and Risk Factor Construction",
+      name: "High-Dimensional Bayesian Model Scan & Signal Discovery",
+      organization: "Washington University in St. Louis",
+      location: "St. Louis, MO",
+      dateRange: "Aug 2024 - Dec 2024",
       description:
-        "Developed a novel approach combining Bayesian Model Scanning and machine learning techniques to extract profitable trading signals from ETF and mutual fund returns. Implemented a three-stage dimension reduction strategy including PCA and Tree method to make Bayesian Model Scanning computationally feasible for large-scale factor selection.",
+        "Developed a hybrid signal extraction framework combining Bayesian Model Scanning with machine learning, designed a PCA and tree-based reduction strategy to make large-scale scanning feasible, and applied the Chib and Zeng (2020) framework to evaluate over 20 million candidate models with statistical rigor.",
       link: "https://github.com/haoruizhang2001/Bayesian-Model-Scan-and-Dimensional-Reduction",
       skills: ["Python", "R", "Bayesian Statistics", "Machine Learning", "PCA"],
     },
@@ -98,21 +107,23 @@ export const siteConfig = {
     {
       company: "Global Key Advisors",
       title: "Artificial Intelligence Research Intern",
-      dateRange: "Oct 2025 - Dec 2025",
+      location: "San Francisco, CA",
+      dateRange: "Oct 2025 - Jan 2026",
       bullets: [
-        "Built an LLM-based financial analysis RAG system to process large-scale 10-K, 10-Q, and 8-K filings for corporate intelligence",
-        "Derived interpretable firm-level risk factors and event signals from financial disclosures through LLM-driven analysis",
-        "Constructed and validated LLM-derived event signals explaining cross-sectional variations in post-announcement returns",
+        "Built an automated pipeline for noisy, multi-format financial records across 1,000+ startups, converting unstructured text into structured corporate intelligence",
+        "Derived 20+ risk factors and event signals from financial disclosures through LLM-driven context analysis",
+        "Backtested LLM-derived signals and achieved a 25% higher return than traditional machine learning baselines in explaining cross-sectional variation",
       ],
     },
     {
       company: "Haitong Securities",
       title: "Deal Sourcing and Client Coverage Intern (Quantitative Analysis Role)",
+      location: "Qingdao, China",
       dateRange: "Jul 2022 - Oct 2022",
       bullets: [
-        "Conducted qualitative and quantitative financial analysis on 200+ corporate financial statements",
-        "Developed automation tools via Python & MathPix API for data mining and image recognition with almost 100% accuracy",
-        "Analyzed aspects of corporate bond-issuing firms, highlighting evolution, key features, and challenges",
+        "Conducted fundamental analysis on financial statements of 200+ corporations with cumulative assets exceeding RMB 500 billion, successfully flagging a high-risk issuer before potential credit events",
+        "Developed Python and MathPix automation to digitize financial tables in 15 seconds per table, saving around 40 team-hours weekly by removing manual entry",
+        "Analyzed debt structures across 300+ companies and supported data-driven screening for investment banking debt issuance targeting",
       ],
     },
     {

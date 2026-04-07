@@ -66,6 +66,24 @@ const hasProjects = siteConfig.projects && siteConfig.projects.length > 0;
                           >
                             0{index + 1}
                           </span>
+                          {(project.organization ||
+                            project.location ||
+                            project.dateRange) && (
+                            <div class="mt-2 space-y-1">
+                              {project.organization && (
+                                <p class="text-sm sm:text-base font-medium text-gray-700">
+                                  {project.organization}
+                                </p>
+                              )}
+                              {(project.location || project.dateRange) && (
+                                <p class="text-xs sm:text-sm text-gray-500">
+                                  {[project.location, project.dateRange]
+                                    .filter(Boolean)
+                                    .join(" | ")}
+                                </p>
+                              )}
+                            </div>
+                          )}
                           <h3 class="text-xl sm:text-2xl font-bold text-gray-900 mt-1">
                             {project.name}
                           </h3>
