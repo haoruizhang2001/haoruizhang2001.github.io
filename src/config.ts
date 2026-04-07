@@ -12,15 +12,14 @@ export const siteConfig = {
   aboutMe:
     "I am someone who works at the intersection of mathematics, computer science, data science, and quantitative finance. Currently pursuing graduate studies at the University of Pennsylvania and UC Berkeley, I am passionate about data modeling, machine learning, and AI-driven systems. I enjoy building practical, scalable solutions and exploring how intelligent models can solve real-world problems. I am actively seeking opportunities in data science, AI/ML engineering, and quantitative finance.",
   skills: {
-    "Programming Languages": [
-      "Python",
+    "Programming Languages": ["Python", "C/C++", "Java"],
+    "ML/DL Frameworks": [
       "Scikit-Learn",
       "Pandas",
       "TensorFlow",
       "PyTorch",
-      "C/C++",
+      "XGBoost",
       "CUDA",
-      "Java",
     ],
     "AI Skills": [
       "RAG",
@@ -31,6 +30,7 @@ export const siteConfig = {
       "Prompt Engineering",
       "LLM Inference",
       "Vector Retrieval",
+      "Agent Workflows",
     ],
     Tools: [
       "R",
