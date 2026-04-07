@@ -58,9 +58,6 @@ export const siteConfig = {
   projects: [
     {
       name: "End-to-End Time-Series Forecasting Pipeline: WTI Crude Oil",
-      organization: "University of California, Berkeley",
-      location: "Berkeley, CA",
-      dateRange: "Jan 2021 - Nov 2025",
       description:
         "Built at UC Berkeley, this project engineered a synchronized multi-frequency data pipeline for WTI crude forecasting, applied PCA and Elastic Net for feature selection, benchmarked LSTM, XGBoost, and Random Forest models against ARIMA with rolling-window validation, and validated a trading strategy that improved directional accuracy by 36%.",
       link: "https://github.com/haoruizhang2001/Oilman-Sachs-Crude-Oil-Price-Prediction",
@@ -84,9 +81,6 @@ export const siteConfig = {
     },
     {
       name: "LLM-Driven Financial Derivative Analysis System",
-      organization: "University of Pennsylvania",
-      location: "Philadelphia, PA",
-      dateRange: "May 2025 - Aug 2025",
       description:
         "Engineered a financial reasoning system integrating GPT-4 and Claude Sonnet APIs to analyze complex derivative pricing scenarios, applied chain-of-thought, few-shot, and instruction-tuning strategies for a 55% performance lift over zero-shot baselines, and outperformed traditional pricing models by 40% and ML baselines by 15-60%.",
       link: "",
@@ -94,9 +88,6 @@ export const siteConfig = {
     },
     {
       name: "High-Dimensional Bayesian Model Scan & Signal Discovery",
-      organization: "Washington University in St. Louis",
-      location: "St. Louis, MO",
-      dateRange: "Aug 2024 - Dec 2024",
       description:
         "Developed a hybrid signal extraction framework combining Bayesian Model Scanning with machine learning, designed a PCA and tree-based reduction strategy to make large-scale scanning feasible, and applied the Chib and Zeng (2020) framework to evaluate over 20 million candidate models with statistical rigor.",
       link: "https://github.com/haoruizhang2001/Bayesian-Model-Scan-and-Dimensional-Reduction",
@@ -107,7 +98,6 @@ export const siteConfig = {
     {
       company: "Global Key Advisors",
       title: "Artificial Intelligence Research Intern",
-      location: "San Francisco, CA",
       dateRange: "Oct 2025 - Jan 2026",
       bullets: [
         "Built an automated pipeline for noisy, multi-format financial records across 1,000+ startups, converting unstructured text into structured corporate intelligence",
@@ -118,7 +108,6 @@ export const siteConfig = {
     {
       company: "Haitong Securities",
       title: "Deal Sourcing and Client Coverage Intern (Quantitative Analysis Role)",
-      location: "Qingdao, China",
       dateRange: "Jul 2022 - Oct 2022",
       bullets: [
         "Conducted fundamental analysis on financial statements of 200+ corporations with cumulative assets exceeding RMB 500 billion, successfully flagging a high-risk issuer before potential credit events",
