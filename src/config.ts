@@ -20,6 +20,22 @@ export const siteConfig = {
   
   projects: [
     {
+      name: "End-to-End Time-Series Forecasting Pipeline: WTI Crude Oil",
+      description:
+        "Built at UC Berkeley, this project engineered a synchronized multi-frequency data pipeline for WTI crude forecasting, applied PCA and Elastic Net for feature selection, benchmarked LSTM, XGBoost, and Random Forest models against ARIMA with rolling-window validation, and validated a trading strategy that improved directional accuracy by 36%.",
+      link: "https://github.com/haoruizhang2001/Oilman-Sachs-Crude-Oil-Price-Prediction",
+      skills: [
+        "Python",
+        "Time Series",
+        "LSTM",
+        "XGBoost",
+        "Random Forest",
+        "ARIMA",
+        "PCA",
+        "Elastic Net",
+      ],
+    },
+    {
       name: "Distributed GPU Computing for Machine Learning Systems",
       description:
         "Engineered a high-performance PyTorch-style tensor and autograd engine in C++/CUDA, achieving 2.3× faster convolution and 3.7× faster pooling than LibTorch on megapixel-scale inputs. Built a full GPU training stack with custom-optimized kernels for convolution, RNN/LSTM, normalization, pooling, and self-attention, enabling 1–7 ms forward/backward passes. Designed distributed LSTM/ML forecasting pipelines using NCCL-based data parallelism, delivering a 25% error reduction over baseline models in financial backtests.",
