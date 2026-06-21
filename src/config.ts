@@ -138,21 +138,21 @@ export const siteConfig = {
   ],
   education: [
     {
-      school: "University of Pennsylvania",
-      degree: "Dual Degree: M.S.E. in Data Science & Computer and Information Technology",
-      dateRange: "Aug 2023 - May 2026",
-      achievements: [
-        "CGPA: 3.94/4.0",
-        "Coursework: GPU Computing for ML Systems, Artificial Intelligence, Natural Language Processing, Deep Learning",
-      ],
-    },
-    {
       school: "University of California, Berkeley",
       degree: "Master of Analytics",
       dateRange: "Aug 2025 - Aug 2026",
       achievements: [
         "CGPA: 3.968/4.0",
         "Coursework: Optimization, Data Analysis, Machine Learning, Database, Financial Engineering System",
+      ],
+    },
+    {
+      school: "University of Pennsylvania",
+      degree: "Dual Degree: M.S.E. in Data Science & Computer and Information Technology",
+      dateRange: "Aug 2023 - May 2026",
+      achievements: [
+        "CGPA: 3.94/4.0",
+        "Coursework: GPU Computing for ML Systems, Artificial Intelligence, Natural Language Processing, Deep Learning",
       ],
     },
     {
