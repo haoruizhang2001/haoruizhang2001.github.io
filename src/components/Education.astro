@@ -34,9 +34,12 @@ const hasEducation = siteConfig.education && siteConfig.education.length > 0;
                         {edu.degree}
                       </p>
                     </div>
-                    <span class="text-xs sm:text-sm text-gray-500 mt-2 sm:mt-0">
-                      {edu.dateRange}
-                    </span>
+                    <div class="text-xs sm:text-sm text-gray-500 mt-2 sm:mt-0 sm:text-right">
+                      <span>{edu.dateRange}</span>
+                      {edu.location && (
+                        <span class="block">{edu.location}</span>
+                      )}
+                    </div>
                   </div>
 
                   <ul class="space-y-2">

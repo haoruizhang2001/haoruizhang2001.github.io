@@ -141,6 +141,7 @@ export const siteConfig = {
       school: "University of California, Berkeley",
       degree: "Master of Analytics",
       dateRange: "Aug 2025 - Aug 2026",
+      location: "Berkeley, CA",
       achievements: [
         "CGPA: 3.968/4.0",
         "Coursework: Optimization, Data Analysis, Machine Learning, Database, Financial Engineering System",
@@ -150,6 +151,7 @@ export const siteConfig = {
       school: "University of Pennsylvania",
       degree: "Dual Degree: M.S.E. in Data Science & Computer and Information Technology",
       dateRange: "Aug 2023 - May 2026",
+      location: "Philadelphia, PA",
       achievements: [
         "CGPA: 3.94/4.0",
         "Coursework: GPU Computing for ML Systems, Artificial Intelligence, Natural Language Processing, Deep Learning",
@@ -159,6 +161,7 @@ export const siteConfig = {
       school: "Washington University in St. Louis",
       degree: "M.S. in Quantitative Finance",
       dateRange: "Aug 2023 - Dec 2024",
+      location: "St. Louis, MO",
       achievements: [
         "CGPA: 4.0/4.0 (Ranking: 1/89)",
         "Honors: Outstanding Finance Student, Charles F. Knight Scholarship, Beta Gamma Sigma Honor Society",
@@ -169,6 +172,7 @@ export const siteConfig = {
       school: "Sun Yat-sen University",
       degree: "B.Econ. in Finance",
       dateRange: "Sep 2019 - Jun 2023",
+      location: "Guangzhou, China",
       achievements: ["CGPA: 3.9/4.0"],
     },
   ],
