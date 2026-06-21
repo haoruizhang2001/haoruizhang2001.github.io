@@ -1,6 +1,6 @@
 export const siteConfig = {
   name: "Henry (Haorui) Zhang",
-  title: "AI/ML Engineer & Data Scientist",
+  title: "Data Scientist",
   description: "Portfolio website of Henry (Haorui) Zhang - Data Science, AI, and Quantitative Finance",
   accentColor: "#004F90",
   social: {
@@ -96,6 +96,12 @@ export const siteConfig = {
   ],
   experience: [
     {
+      company: "Tencent",
+      title: "Data Science Intern",
+      dateRange: "Jun 2026 - Present",
+      bullets: [],
+    },
+    {
       company: "Global Key Advisors",
       title: "Artificial Intelligence Research Intern",
       dateRange: "Oct 2025 - Jan 2026",
@@ -130,9 +136,9 @@ export const siteConfig = {
     {
       school: "University of Pennsylvania",
       degree: "Dual Degree: M.S.E. in Data Science & Computer and Information Technology",
-      dateRange: "Aug 2023 - Dec 2026",
+      dateRange: "Aug 2023 - May 2026",
       achievements: [
-        "CGPA: 3.93/4.0",
+        "CGPA: 3.94/4.0",
         "Coursework: GPU Computing for ML Systems, Artificial Intelligence, Natural Language Processing, Deep Learning",
       ],
     },
@@ -141,7 +147,7 @@ export const siteConfig = {
       degree: "Master of Analytics",
       dateRange: "Aug 2025 - Aug 2026",
       achievements: [
-        "CGPA: 4.0/4.0",
+        "CGPA: 3.968/4.0",
         "Coursework: Optimization, Data Analysis, Machine Learning, Database, Financial Engineering System",
       ],
     },
