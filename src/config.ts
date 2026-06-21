@@ -10,7 +10,7 @@ export const siteConfig = {
     github: "https://github.com/haoruizhang2001",
   },
   aboutMe:
-    "I am someone who works at the intersection of mathematics, computer science, data science, and quantitative finance. Currently pursuing graduate studies at the University of Pennsylvania and UC Berkeley, I am passionate about data modeling, machine learning, and AI-driven systems. I enjoy building practical, scalable solutions and exploring how intelligent models can solve real-world problems. I am actively seeking opportunities in data science, AI/ML engineering, and quantitative finance.",
+    "I am someone who works at the intersection of mathematics, computer science, data science, and quantitative finance. I am currently a Data Science Intern at Tencent (Level Infinite, its global gaming brand) in Palo Alto, where I apply statistical modeling, machine learning, and A/B testing to turn large, complex datasets into data-driven insights across game development, marketing, and operations. Alongside this, I am pursuing graduate studies at the University of Pennsylvania and UC Berkeley, and I am passionate about data modeling, machine learning, and AI-driven systems. I enjoy building practical, scalable solutions and exploring how intelligent models can solve real-world problems.",
   skills: {
     "Programming Languages": ["Python", "C/C++", "Java"],
     "ML/DL Frameworks": [
