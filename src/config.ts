@@ -99,12 +99,14 @@ export const siteConfig = {
       company: "Tencent",
       title: "Data Science Intern",
       dateRange: "Jun 2026 - Present",
+      location: "Palo Alto, CA",
       bullets: [],
     },
     {
       company: "Global Key Advisors",
       title: "Artificial Intelligence Research Intern",
       dateRange: "Oct 2025 - Jan 2026",
+      location: "San Francisco, CA",
       bullets: [
         "Built an automated pipeline for noisy, multi-format financial records across 1,000+ startups, converting unstructured text into structured corporate intelligence",
         "Derived 20+ risk factors and event signals from financial disclosures through LLM-driven context analysis",
@@ -115,6 +117,7 @@ export const siteConfig = {
       company: "Haitong Securities",
       title: "Deal Sourcing and Client Coverage Intern (Quantitative Analysis Role)",
       dateRange: "Jul 2022 - Oct 2022",
+      location: "Qingdao, China",
       bullets: [
         "Conducted fundamental analysis on financial statements of 200+ corporations with cumulative assets exceeding RMB 500 billion, successfully flagging a high-risk issuer before potential credit events",
         "Developed Python and MathPix automation to digitize financial tables in 15 seconds per table, saving around 40 team-hours weekly by removing manual entry",
@@ -125,6 +128,7 @@ export const siteConfig = {
       company: "Tsingtao Stone Asset Management",
       title: "Quantitative Researcher Intern",
       dateRange: "Dec 2021 - Mar 2022",
+      location: "Qingdao, China",
       bullets: [
         "Conducted strategy development/back-test of energy futures trading, eliminated 30% of underperforming models",
         "Analyzed 12 financial factors, highlighted consistent significance of SMB and HML factors",

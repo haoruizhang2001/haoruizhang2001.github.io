@@ -47,9 +47,12 @@ const hasExperience = siteConfig.experience && siteConfig.experience.length > 0;
                           {exp.company}
                         </p>
                       </div>
-                      <span class="text-xs sm:text-sm text-gray-500 mt-2 sm:mt-0">
-                        {exp.dateRange}
-                      </span>
+                      <div class="text-xs sm:text-sm text-gray-500 mt-2 sm:mt-0 sm:text-right">
+                        <span>{exp.dateRange}</span>
+                        {exp.location && (
+                          <span class="block">{exp.location}</span>
+                        )}
+                      </div>
                     </div>
 
                     <ul class="space-y-2">
